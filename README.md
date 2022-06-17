@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JordanPavlev
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning ![изображение](https://user-images.githubusercontent.com/81190043/174223489-407b56ad-300c-4572-b832-b57c9ebfa1e4.png)
+- 🌱 I’m currently learning React and Nodejs
 
  
 - 💞️ I’m looking to collaborate on front end projects.
