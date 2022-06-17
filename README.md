@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JordanPavlev
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning html css js
+- 🌱 I’m currently learning https://forthebadge.com/images/badges/made-with-javascript.svg
 - 💞️ I’m looking to collaborate on front end - back end projects.
 - 📫 How to reach me danipavlev@gmail.com
 
