@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JordanPavlev
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning ![изображение](https://user-images.githubusercontent.com/81190043/174223406-0dead07e-5080-4868-b31c-ad1582bffd95.png)
+- 🌱 I’m currently learning ![изображение](https://user-images.githubusercontent.com/81190043/174223489-407b56ad-300c-4572-b832-b57c9ebfa1e4.png)
+
  
 - 💞️ I’m looking to collaborate on front end projects.
 - 📫 How to reach me danipavlev@gmail.com
