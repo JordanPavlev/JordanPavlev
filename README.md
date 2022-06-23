@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @JordanPavlev
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning React and Nodejs
+ 👋 Hi, I’m @JordanPavlev<br>
+ 👀 I’m interested in Web development <br>
+ 🌱 I’m currently learning React and Nodejs <br>
+ 💞️ I’m looking to collaborate on front end projects. <br>
 
+ [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) <br>
  
-- 💞️ I’m looking to collaborate on front end projects. <br>
- [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) 
-- 📫 How to reach me danipavlev@gmail.com <br/>
+ 📫 How to reach me danipavlev@gmail.com <br/>
 
 
  <b>What i do:</b><br>
@@ -15,4 +15,3 @@
 JordanPavlev/JordanPavlev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jordanpavlev&theme=highcontrast&date_format=n%2Fj%5B%2FY%5D&sideNums=3C8EDD)](https://git.io/streak-stats)
