@@ -5,7 +5,7 @@
 
  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) <br>
  
- 📫 How to reach me danipavlev@gmail.com <br/>
+ 📫 How to reach me jordanpavlev@gmail.com <br/>
 
 
  <b>What i do:</b><br>
