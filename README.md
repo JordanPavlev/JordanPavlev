@@ -1,7 +1,6 @@
 @@ -1,19 +1,22 @@
- # 💫 About Me:
 # 💫 About Me:
-👋 Hi, I’m @JordanPavlev 🇧🇬<br>👀 Web Developer 💻📱<br>🌱 I’m currently learning Full stack MERN ⚙️<br>💞️ I’m looking to collaborate on full stack apps 🔌
+👋 Hi, I’m @JordanPavlev 🇧🇬<br>👀 Web Developer 💻📱<br>
 
 
 ## 🌐 Socials:
