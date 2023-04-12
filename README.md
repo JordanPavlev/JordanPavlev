@@ -1,4 +1,3 @@
-@@ -1,19 +1,22 @@
 # 💫 About Me:
 👋 Hi, I’m @JordanPavlev 🇧🇬<br>👀 Web Developer 💻📱<br>
 
